@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yonesmaheri
-- 👀 I’m interested in Front-End Developing 
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning ReactJs & NextJs
 - 📫 How to reach me :
 - Email : yonesmaheri80@gmail.com
